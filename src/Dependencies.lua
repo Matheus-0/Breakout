@@ -19,6 +19,9 @@ require 'src/LevelMaker'
 -- The rectangular entity the player controls, which deflects the ball
 require 'src/Paddle'
 
+-- Power-up code
+require 'src/PowerUp'
+
 -- A basic class which will allow us to transition to and from game states
 require 'src/StateMachine'
 
