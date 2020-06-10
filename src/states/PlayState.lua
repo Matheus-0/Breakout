@@ -71,14 +71,14 @@ function PlayState:update(dt)
 
         if power:collides(self.paddle) then
             if power.type >= 1 and power.type <= 9 then
-                self.powerUpBall()
+                self:powerUpBall()
             elseif power.type == 10 then
                 self.hasKey = true
 
                 gSounds['power-up']:play()
             end
 
-            table:remove(self.powerUps, k)
+            table.remove(self.powerUps, k)
         end
     end
 
@@ -116,6 +116,7 @@ function PlayState:update(dt)
                         self.score = self.score + 1000
 
                         brickUnlocked = true
+                    end
                 else
                     self.score = self.score + (brick.tier * 200 + brick.color * 25)
                 end
@@ -138,7 +139,7 @@ function PlayState:update(dt)
 
                     -- Increase size when recovering
                     if self.paddle.size < 4 then
-                        self.paddle:resize(self.paddle + 1)
+                        self.paddle:resize(self.paddle.size + 1)
                     end
 
                     -- Multiply recover points by 2
