@@ -77,7 +77,7 @@ function Brick:hit(key)
         self.psystem:emit(1024)
 
         self.psystem:setParticleLifetime(0.5, 1)
-        self.setAreaSpread('normal', 10, 10)
+        self.psystem:setAreaSpread('normal', 10, 10)
 
         gSounds['brick-hit-1']:stop()
         gSounds['brick-hit-1']:play()
