@@ -35,12 +35,14 @@ function PowerUp:update(dt)
             self.visible = not self.visible
         end
     else
+        self.visible = true
+
         self.y = self.y + 1
     end
 end
 
 function PowerUp:collides(target)
-    if self.x > target.x + target.height or target.x > self.x + self.width then
+    if self.x > target.x + target.width or target.x > self.x + self.width then
         return false
     end
 
