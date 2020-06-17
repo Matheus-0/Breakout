@@ -5,6 +5,12 @@ Third assignment for Harvard's CS50G course.
 
 ### How to run:
 
+Clone this repository by running this command:
+
+```
+git clone https://github.com/Dywyll/Breakout.git
+```
+
 Be sure to download the version 0.10.2 of the [LÖVE](https://bitbucket.org/rude/love/downloads/) framework. After downloading and installing it, visit the game's directory via terminal and run the game by using the following command:
 
 ```
