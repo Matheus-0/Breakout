@@ -7,7 +7,22 @@ Third assignment for Harvard's CS50G course.
 
 #### Main menu
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/menu.png" style="height: 50%; width: 50%">
+  <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/menu.png" width="65%" height="65%">
+</div>
+
+#### High score screen
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/scores.png" width="65%" height="65%">
+</div>
+
+#### Paddle selection
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/selection.png" width="65%" height="65%">
+</div>
+
+#### Game
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/game.png" width="65%" height="65%">
 </div>
 
 ### Installation
