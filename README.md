@@ -3,7 +3,14 @@ A breakout game.
 
 Third assignment for Harvard's CS50G course.
 
-### How to run:
+### Demo
+
+#### Main menu
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/menu.png" style="height: 50%; width: 50%">
+</div>
+
+### Installation
 
 Clone this repository by running this command:
 
