@@ -3,19 +3,27 @@ A breakout game.
 
 Third assignment for Harvard's CS50G course.
 
-### Demo
+### Images
 
-#### Menu
- <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/menu.png" width="65%" height="65%">
+<h4 align="center">Menu</h4>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/menu.png" width="65%" height="65%">
+</div>
 
-#### Scores
-<img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/scores.png" width="65%" height="65%">
+<h4 align="center">Scores</h4>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/scores.png" width="65%" height="65%">
+</div>
 
-#### Selection
-<img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/selection.png" width="65%" height="65%">
+<h4 align="center">Selection</h4>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/selection.png" width="65%" height="65%">
+</div>
 
-#### Game
-<img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/game.png" width="65%" height="65%">
+<h4 align="center">Game</h4>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/game.png" width="65%" height="65%">
+</div>
 
 ### Installation
 
