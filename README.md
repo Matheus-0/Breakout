@@ -16,6 +16,8 @@
   <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/game.png" width="65%" height="65%">
 </div>
 
+<br>
+
 <p align="center">A simple breakout game made in Lua.</p>
 <p align="center">Third assignment for Harvard's CS50G course.</p>
 
