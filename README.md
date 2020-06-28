@@ -1,29 +1,23 @@
-# Breakout
-A breakout game.
+<h1 align="center">Breakout</h1>
 
-Third assignment for Harvard's CS50G course.
-
-### Images
-
-<h4 align="center">Menu</h4>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/menu.png" width="65%" height="65%">
 </div>
 
-<h4 align="center">Scores</h4>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/scores.png" width="65%" height="65%">
 </div>
 
-<h4 align="center">Selection</h4>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/selection.png" width="65%" height="65%">
 </div>
 
-<h4 align="center">Game</h4>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dywyll/Breakout/master/img/game.png" width="65%" height="65%">
 </div>
+
+<p align="center">A simple breakout game made in Lua.</p>
+<p align="center">Third assignment for Harvard's CS50G course.</p>
 
 ### Installation
 
